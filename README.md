@@ -1,2 +1,3 @@
-# sopha-ios-client
-iOS Client with Controller for the Sopha Gaming Platform
+# jiro-ios-client
+
+iOS Client with Controller for the Jiro Gaming Platform
